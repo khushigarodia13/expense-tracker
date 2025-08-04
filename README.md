@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Amazon-Clone-React
 
 Expense Tracker React Client
@@ -42,3 +43,6 @@ Configure the API endpoint: In the project code, specify the URL of the server-s
 Start the development server: npm start
 
 Open the application in your web browser at http://localhost:3000
+=======
+# expense-tracker
+>>>>>>> 1799c26e78cb9c3d9d90e7a86b8dbd74bb843e79
