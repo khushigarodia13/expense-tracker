@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Amazon-Clone-React
+
 
 Expense Tracker React Client
 
